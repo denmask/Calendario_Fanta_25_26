@@ -581,7 +581,7 @@
         {
           "casa": "INTER",
           "ospite": "ROMA",
-          "scoreCasa": 0,
+          "scoreCasa": 1,
           "scoreOspite": 1,
           "fantaPuntiCasa": null,
           "fantaPuntiOspite": null
