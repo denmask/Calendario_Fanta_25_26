@@ -768,32 +768,32 @@
           "ospite": "JUVENTUS",
           "scoreCasa": 1,
           "scoreOspite": 0,
-          "fantaPuntiCasa": null,
-          "fantaPuntiOspite": null
+          "fantaPuntiCasa": 73,
+          "fantaPuntiOspite": 53
         },
         {
           "casa": "ATALANTA",
           "ospite": "MILAN",
           "scoreCasa": 0,
-          "scoreOspite": 0,
-          "fantaPuntiCasa": null,
-          "fantaPuntiOspite": null
+          "scoreOspite": 1,
+          "fantaPuntiCasa": 64.5,
+          "fantaPuntiOspite": 74
         },
         {
           "casa": "NAPOLI",
           "ospite": "ROMA",
           "scoreCasa": 2,
-          "scoreOspite": 2,
-          "fantaPuntiCasa": null,
-          "fantaPuntiOspite": null
+          "scoreOspite": 4,
+          "fantaPuntiCasa": 77,
+          "fantaPuntiOspite": 81
         },
         {
           "casa": "LAZIO",
           "ospite": "BOLOGNA",
           "scoreCasa": 1,
           "scoreOspite": 0,
-          "fantaPuntiCasa": null,
-          "fantaPuntiOspite": null
+          "fantaPuntiCasa": 64,
+          "fantaPuntiOspite": 64.5
         }
       ]
     },
