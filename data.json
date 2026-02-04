@@ -849,9 +849,9 @@
           "casa": "BOLOGNA",
           "ospite": "MILAN",
           "scoreCasa": 2,
-          "scoreOspite": 0,
-          "fantaPuntiCasa": 74.0,
-          "fantaPuntiOspite": 40.0
+          "scoreOspite": 3,
+          "fantaPuntiCasa": 72.0,
+          "fantaPuntiOspite": 73.5
         },
         {
           "casa": "JUVENTUS",
