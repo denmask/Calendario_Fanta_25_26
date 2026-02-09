@@ -877,32 +877,32 @@
         {
           "casa": "INTER",
           "ospite": "NAPOLI",
-          "scoreCasa": null,
-          "scoreOspite": null,
+          "scoreCasa": 4,
+          "scoreOspite": 4,
           "fantaPuntiCasa": null,
           "fantaPuntiOspite": null
         },
         {
           "casa": "LAZIO",
           "ospite": "MILAN",
-          "scoreCasa": null,
-          "scoreOspite": null,
+          "scoreCasa": 3,
+          "scoreOspite": 1,
           "fantaPuntiCasa": null,
           "fantaPuntiOspite": null
         },
         {
           "casa": "JUVENTUS",
           "ospite": "ROMA",
-          "scoreCasa": null,
-          "scoreOspite": null,
+          "scoreCasa": 4,
+          "scoreOspite": 0,
           "fantaPuntiCasa": null,
           "fantaPuntiOspite": null
         },
         {
           "casa": "ATALANTA",
           "ospite": "BOLOGNA",
-          "scoreCasa": null,
-          "scoreOspite": null,
+          "scoreCasa": 1,
+          "scoreOspite": 0,
           "fantaPuntiCasa": null,
           "fantaPuntiOspite": null
         }
