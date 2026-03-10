@@ -1041,7 +1041,7 @@
         {
           "casa": "ROMA",
           "ospite": "NAPOLI",
-          "scoreCasa": 1,
+          "scoreCasa": 2,
           "scoreOspite": 2,
           "fantaPuntiCasa": null,
           "fantaPuntiOspite": null
@@ -1050,7 +1050,7 @@
           "casa": "BOLOGNA",
           "ospite": "LAZIO",
           "scoreCasa": 0,
-          "scoreOspite": 3,
+          "scoreOspite": 5,
           "fantaPuntiCasa": null,
           "fantaPuntiOspite": null
         }
