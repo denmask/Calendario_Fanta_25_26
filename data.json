@@ -1064,8 +1064,8 @@
           "ospite": "ATALANTA",
           "scoreCasa": 1,
           "scoreOspite": 2,
-          "fantaPuntiCasa": null,
-          "fantaPuntiOspite": null
+          "fantaPuntiCasa": 67.5,
+          "fantaPuntiOspite": 71
         },
         {
           "casa": "MILAN",
