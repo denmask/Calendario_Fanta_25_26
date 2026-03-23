@@ -1099,7 +1099,7 @@
         {
           "casa": "INTER",
           "ospite": "ROMA",
-          "scoreCasa": 1,
+          "scoreCasa": 2,
           "scoreOspite": 2,
           "fantaPuntiCasa": null,
           "fantaPuntiOspite": null
@@ -1115,7 +1115,7 @@
         {
           "casa": "LAZIO",
           "ospite": "JUVENTUS",
-          "scoreCasa": 1,
+          "scoreCasa": 3,
           "scoreOspite": 3,
           "fantaPuntiCasa": null,
           "fantaPuntiOspite": null
@@ -1123,7 +1123,7 @@
         {
           "casa": "ATALANTA",
           "ospite": "NAPOLI",
-          "scoreCasa": 1,
+          "scoreCasa": 2,
           "scoreOspite": 1,
           "fantaPuntiCasa": null,
           "fantaPuntiOspite": null
